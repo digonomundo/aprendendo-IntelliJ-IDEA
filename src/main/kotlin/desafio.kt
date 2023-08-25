@@ -14,5 +14,5 @@ fun main() {
 
     val popBr = 201000000
 
-    println("O pib do Brasil é: $pib")
+    println("O pib do Brasil é: " + pib / popBr)
 }
