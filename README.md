@@ -1,2 +1,2 @@
-# aprendendo-ntelliJ-IDEA
+# aprendendo-IntelliJ-IDEA
 primeiros passos com kotlin no Intellij IDEA
